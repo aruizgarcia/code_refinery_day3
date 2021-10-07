@@ -1,0 +1,5 @@
+# Workflow using pytest
+
+- name: test with pytest
+  run: | 
+    pytest example.py
